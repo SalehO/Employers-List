@@ -1,0 +1,10 @@
+﻿  main.cpp
+  employee.cpp
+g:\cs2\project 5\employee.cpp(98): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+g:\cs2\project 5\employee.cpp(100): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+g:\cs2\project 5\employee.cpp(102): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+g:\cs2\project 5\employee.cpp(112): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+g:\cs2\project 5\employee.cpp(114): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+g:\cs2\project 5\employee.cpp(116): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  project 5.vcxproj -> G:\CS2\project 5\Debug\project 5.exe
